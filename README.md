@@ -12,6 +12,7 @@ Start by cloning this repository to your local machine. Run the following comman
 
 ```bash
 git clone git@github.com:dracothorson/Trees-and-Binary-Trees.git
+```
 
 
 ### 2. Navigate to the project directory
@@ -20,6 +21,7 @@ Change to the project directory:
 
 ```bash
 cd Trees-and-Binary-Trees
+```
 
 ### 3. Install Dependencies
 
@@ -30,6 +32,7 @@ To install the required dependencies, run:
 
 ```bash
 npm install
+```
 
 ### 4. Run the Project
 
@@ -37,3 +40,4 @@ Once the dependencies are installed, you can start the project by running:
 
 ```bash
 npm start
+```
